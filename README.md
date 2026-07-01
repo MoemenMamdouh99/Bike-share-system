@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes a **Bike Share System** dataset using Python to uncover customer behavior, rental trends, and business performance insights. Through exploratory data analysis (EDA), the project transforms raw transactional data into meaningful visualizations and actionable recommendations that can help improve operational efficiency and customer experience.
+This project analyzes a **Bike Share System** dataset using Python to uncover customer behavior, rental trends, and business performance insights. Through exploratory data analysis (EDA), the project transforms raw transactional data into meaningful, actionable recommendations that can help improve operational efficiency and customer experience.
 
 The analysis demonstrates practical data analytics skills, including data cleaning, feature engineering, visualization, and business insight generation.
 
@@ -46,12 +46,6 @@ The dataset represents real-world bike rental activity and is well suited for ex
 # 🛠️ Technologies Used
 
 * Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
-
 ---
 
 # 🔄 Project Workflow
@@ -96,21 +90,6 @@ The notebook investigates several important business questions, including:
 
 ---
 
-# 📈 Data Visualizations
-
-The project includes multiple visualizations such as:
-
-* Bar Charts
-* Line Charts
-* Histograms
-* Count Plots
-* Box Plots
-* Heatmaps
-* Distribution Charts
-
-These charts help communicate trends clearly and support data-driven storytelling.
-
----
 
 # 💡 Key Insights
 
@@ -128,8 +107,8 @@ Some of the insights generated from this analysis include:
 
 ```text
 Bike-share-system/
-│
-├── Bike store.py.ipynb      # Jupyter Notebook containing the complete analysis
+|__ Bike Share System.mp4    # Video demonstarting how the app work
+├── Bike store.py            # Python file to run the app containing the complete analysis
 ├── README.md                # Project documentation
 └── dataset.csv              # Dataset (if included)
 ```
@@ -183,21 +162,6 @@ Bike store.py.ipynb
 
 ---
 
-# 📷 Suggested Screenshots
-
-To enhance your GitHub repository, consider adding screenshots of:
-
-* Dataset Overview
-* Peak Rental Hours Chart
-* Monthly Rental Trends
-* Customer Distribution
-* Ride Duration Distribution
-* Correlation Heatmap
-* Final Dashboard (if applicable)
-
-Store these images in a `screenshots/` folder and reference them in this README.
-
----
 
 # 🚀 Future Improvements
 
